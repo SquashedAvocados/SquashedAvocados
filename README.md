@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=62)
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Watch out avocados! 😋</h3>
-
 <img src="https://64.media.tumblr.com/f1883ba2bb1c66f41f6c3f3965b2dd88/tumblr_p5wkvryuzi1qza1qzo1_540.gifv" />
 <!-- source: https://jjjjjjjjjjohn.tumblr.com/post/172074799670/amp -->
 
