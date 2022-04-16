@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=200&section=header&text=Hi!%20👋&fontSize=60&animation=fadeIn&fontAlignY=25&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=50&descAlign=50&textBg=false&fontColor=ffffff" width="100%" />
 
-<!-- source: https://jjjjjjjjjjohn.tumblr.com/post/172074799670/amp -->
-<img src="https://64.media.tumblr.com/f1883ba2bb1c66f41f6c3f3965b2dd88/tumblr_p5wkvryuzi1qza1qzo1_540.gifv" width="50%" align="right" />
+<p align="center">
+  <img src="https://64.media.tumblr.com/f1883ba2bb1c66f41f6c3f3965b2dd88/tumblr_p5wkvryuzi1qza1qzo1_540.gifv" width="40%" align="center" />
+  <!-- source: https://jjjjjjjjjjohn.tumblr.com/post/172074799670/amp -->
+</p>
 
-<kbd>
+<div align="center">
 <p>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -48,5 +50,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
 </p>
-</kbd>
+</div>
   
